@@ -1,0 +1,5 @@
+H:\Courses\nopcommerce\nopCommerce_4.60.2_Source\src\Plugins\Nop.Plugin.VoiceIn.CRUD\obj\Debug\net7.0\Nop.Plugin.VoiceIn.CRUD.csproj.AssemblyReference.cache
+H:\Courses\nopcommerce\nopCommerce_4.60.2_Source\src\Plugins\Nop.Plugin.VoiceIn.CRUD\obj\Debug\net7.0\Nop.Plugin.VoiceIn.CRUD.GeneratedMSBuildEditorConfig.editorconfig
+H:\Courses\nopcommerce\nopCommerce_4.60.2_Source\src\Plugins\Nop.Plugin.VoiceIn.CRUD\obj\Debug\net7.0\Nop.Plugin.VoiceIn.CRUD.AssemblyInfoInputs.cache
+H:\Courses\nopcommerce\nopCommerce_4.60.2_Source\src\Plugins\Nop.Plugin.VoiceIn.CRUD\obj\Debug\net7.0\Nop.Plugin.VoiceIn.CRUD.AssemblyInfo.cs
+H:\Courses\nopcommerce\nopCommerce_4.60.2_Source\src\Plugins\Nop.Plugin.VoiceIn.CRUD\obj\Debug\net7.0\Nop.Plugin.VoiceIn.CRUD.csproj.CoreCompileInputs.cache
